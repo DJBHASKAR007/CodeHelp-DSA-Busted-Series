@@ -4,8 +4,8 @@ using namespace std;
 //Function Signature
 void printCounting(int num) {
 
-//    cout << n << endl;
-    //Function Body 
+   /* cout << n << endl;
+    Function Body */
     for(int i=1; i<=num; i++) {
         cout<< i << " ";
     }
